@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<unique-id>1615223001128561-1</unique-id>
+	<command>konsole $pwd</command>
+	<description>Example for a custom action</description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>xarchiver</icon>
+	<name>Open Deepin Compressor</name>
+	<unique-id>1615584870611670-1</unique-id>
+	<command>deepin-compressor</command>
+	<description>Open Deepin Compressor</description>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+</actions>

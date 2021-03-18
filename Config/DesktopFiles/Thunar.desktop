@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Thunar
+Comment=Thunar File Manager
+Exec=thunar
+Terminal=false
+Type=Application
