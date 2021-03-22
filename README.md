@@ -2,7 +2,13 @@
 
 Lightweight Arch Linux rice with a window manager and base programs
 
-## How to use:
+# Screenshots
+
+![](Screenshots/1.png)
+![](Screenshots/2.png)
+![](Screenshots/3.png)
+
+# How to use:
 
 1. Install Arch Linux -> https://wiki.archlinux.org/index.php/Installation_guide (make sure to install NetworkManager or you will not be able to connect to the internet after restart)
 
