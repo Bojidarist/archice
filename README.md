@@ -66,6 +66,17 @@ To Install PulseEffects simply navigate to the archice directory and run the "in
 
     ./install_pulseeffects.sh
 
+# Shortcuts
+
+Shortcuts can be configured in ~/.config/openbox/rc.xml
+
+- **Terminal** - CTRL + ALT + T
+- **Screenshot(to ~/Pictures)** - Print
+- **Screenshot(to clipboard)** - Shift + Print
+- **Screenshot(Selection/GUI)** - CTRL + Shift + Print
+- **Synapse(Search/Open programs/Start menu)** - Super + Space
+- **Thunar(File manager)** - Super + E
+
 # Known Issues
 
 - On first startup the sound may be muted by default. If that happens simply middle click on the sound tray icon to open the volume mixer (pavucontrol) and unmute your speakers.
